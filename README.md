@@ -1,4 +1,12 @@
 # solana-personal-token
 solana-personal-token
 
-lorem ipsum
+# Install.sh
+chmod +x install.sh
+./install.sh
+
+- yarn
+- node
+
+anchor build
+anchor deploy
